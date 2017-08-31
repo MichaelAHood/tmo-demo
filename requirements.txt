@@ -1,0 +1,6 @@
+pandas
+pillow
+requests
+scipy
+sklearn
+tensorflow-gpu

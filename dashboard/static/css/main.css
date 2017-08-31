@@ -1,0 +1,4 @@
+.panel-resizable {
+  resize: vertical;
+  overflow: hidden;
+}
